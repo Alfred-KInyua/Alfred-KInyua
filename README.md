@@ -3,7 +3,7 @@
 I am currently a full-stack developer student at Microverse.<br>
 AT Microverse I am able to code and pair program with global students on a daily basis.  
 
-### Skills: VUE JS / REACT / JS / HTML / CSS
+### Skills: Node JS / REACT / JS / HTML / CSS /WEBPACK/ SAAS
 
 ![Alfred's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alfred-KInyua&show_icons=true&theme=radical)
 
