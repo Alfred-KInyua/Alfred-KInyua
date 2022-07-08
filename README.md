@@ -1,6 +1,6 @@
 # Hello! 👋
 #### I am full stack developer 
-I am currently a full-stack developer student at Microverse.
+I am currently a full-stack developer student at Microverse.<br>
 AT Microverse I am able to code and pair program with global students on a daily basis.  
 
 ### Skills: VUE JS / REACT / JS / HTML / CSS
