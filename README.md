@@ -1,5 +1,5 @@
 # Hello! 👋
-## Welcome to my World!
+## Welcome to my Happy Place!
 I am currently a full-stack developer student at Microverse.<br>
 AT Microverse I am able to code and pair program with global students on a daily basis.  
 
