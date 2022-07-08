@@ -1,4 +1,9 @@
-### Hi there 👋
+# Hi 👋 I'm Alfred Kinyua.
+
+### Enthusiastic Fullstack developer.  👯
+
+[![Alfred's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/Alfred-KInyua/github-readme-stats)
+
 
 <!--
 **Alfred-KInyua/Alfred-KInyua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
