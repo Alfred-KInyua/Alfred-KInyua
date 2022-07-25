@@ -205,11 +205,11 @@ I will be adding more skills in the future...🤓
 
 ## Did I catch your attention?
 
-Feeling curious? 🤔 Why don't contact me? 😉
+Feeling curious? 🤔 Why don't you contact me? 😉
 
 <a href="https://twitter.com/alfkinyua" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alfkinyua" height="30" width="30"/></a>
 <a href="https://linkedin.com/in/alfred-kinyua-25927a64/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Alfred KInyua/" height="30" width="60"/></a>
-<a href="mailto:alfkinyua@gmail.com?subject=Want%20to%20contact" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Circle-icons-mail.svg/1024px-Circle-icons-mail.svg.png" alt="william-morales-palma/" height="30" width="30"/></a>
+<a href="mailto:alfkinyua@gmail.com?subject=Want%20to%20contact" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Circle-icons-mail.svg/1024px-Circle-icons-mail.svg.png" alt="Alfred Kinyua/" height="30" width="30"/></a>
 
 <!--
 **Alfred-KInyua/Alfred-KInyua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
