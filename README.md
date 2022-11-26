@@ -4,7 +4,7 @@
 I am currently a full-stack developer student at Microverse.<br>
 AT Microverse I am able to code and pair program with global students on a daily basis.  
 
-### Skills: Ruby on Rails/ REACTJs-Redux / Javascript / SCSS
+### Skills: Ruby on Rails/ ReactJs-Redux / Javascript / SCSS
 <div>
 <p align="center">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Alfred-KInyua&show_icons=true&theme=radical=en&layout=compact" alt="Alfred-KInyua" height="150"/>
