@@ -1,7 +1,7 @@
 # Hello! 👋
 ## Welcome to my Happy Place! <p align="right"> <img src="https://komarev.com/ghpvc/?username=Alfred-KInyua&label=Profile%20views&color=0e75b6&style=plastic" alt="Alfred KInyua" /> </p>
 
-I am currently a full-stack developer student at Microverse.<br>
+I am currently a full Stack developer student at Microverse.<br>
 AT Microverse I am able to code and pair program with global students on a daily basis.  
 
 ### Skills: Ruby on Rails/ ReactJs-Redux / Javascript / SCSS
